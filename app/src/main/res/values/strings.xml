@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MelhorIdadeApp</string>
+    <string name="hint_nomeIdoso">Seu nome</string>
+    <string name="hint_emailIdoso">Seu email</string>
+    <string name="hint_dataDeNascimento">Sua data de nascimento</string>
+    <string name="hint_cpfidoso">Digite seu CPF</string>
+    <string name="hint_dataDeNascimento2">Digite sua data de nascimento</string>
+    <string name="hint_nome2">Digite seu nome completo</string>
+    <string name="hint_email2">Digite seu email</string>
+    <string name="hint_senhaIdoso">Digite sua senha</string>
+</resources>
